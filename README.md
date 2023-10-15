@@ -1,2 +1,1 @@
-# googleItAutomation
-This repo is for the github course as part of google it automation certification
+I am editing the README file. Adding some more details about the project description.
